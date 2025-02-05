@@ -1,4 +1,4 @@
-## 👋 Bienvenidos!!! Hola, soy Lourdes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## 👋 Bienvenidos!!! Soy Lourdes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!--
 **mlizquierdos/mlizquierdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mlizquierdos&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/mlizquierdos)
 
 ---
 ### You can find in me in the web 🌍
