@@ -56,6 +56,14 @@ Here are some ideas to get you started:
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+
+---
+### You can find in me in the web 🌍
+---
+
 ```javascript
 const thai = {
   pronouns: "she" | "her",
