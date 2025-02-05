@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Profesora del <a href="[http://www.unb.br](http://iesfraydiegotadeo.centros.educa.jcyl.es/sitio/)">IES Fray Diego Tadeo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Profesora del <a href="http://iesfraydiegotadeo.centros.educa.jcyl.es/sitio/"> IES Fray Diego Tadeo </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Perfil en construcción...<a href="#"> (n pruebas) </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: mlizquierdos](https://img.shields.io/twitter/follow/mlizquierdos?style=social)](https://twitter.com/Tmlizquierdos)
